@@ -4,7 +4,7 @@ Food insecurity app for hackathon
 
 ## Plan:
 
-### Inventiory Display
+### Inventory Display
     [ ] Real time Updates
         - Ensure that iventory updates in real-time as items are added or taken.
     [ ] Categorization
