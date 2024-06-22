@@ -4,7 +4,7 @@ Food insecurity app for hackathon
 
 ## Plan:
 
-1. Inventiory Display
+### Inventiory Display
     [ ] Real time Updates
         - Ensure that iventory updates in real-time as items are added or taken.
     [ ] Categorization
@@ -14,7 +14,7 @@ Food insecurity app for hackathon
     [ ] Visual Display
         - Include images of items to help users better understand what's available
 
-2. Reservaton System for Pick-Up:
+### Reservaton System for Pick-Up:
     [ ] User Accounts
         - Allows users to create accounts to manage their reservations
     [ ] Time Slots
@@ -26,7 +26,7 @@ Food insecurity app for hackathon
     [ ] Cancellation/Modification
         - Allow users to cancel or modify their reservations easily.
 
-3. Anonymous Pick-up:
+### Anonymous Pick-up:
     [ ] Anonymous Id
         - use usernames almost like an Xbox username - such as `RedDolphin`, `BlueMongoose` etc..
     [ ] Secure Pickup
